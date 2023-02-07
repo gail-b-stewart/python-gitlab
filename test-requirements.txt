@@ -7,3 +7,4 @@ pytest-cov
 sphinx==3.2.1
 sphinx_rtd_theme
 responses
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
