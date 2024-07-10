@@ -2,3 +2,4 @@
 -r test-requirements.txt
 pytest-console-scripts
 pytest-docker
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
